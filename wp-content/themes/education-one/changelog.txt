@@ -1,0 +1,134 @@
+== Changelog ==
+= 1.1.12
+* Tested with last Version 5.0.1
+* Fixed Error
+= 1.1.11
+* Tested with last Versiton 4.9.6
+* Fixed Error 
+
+= 1.1.10 - April 16 2018 =
+* Tested with last RC
+* Fixed Map Isue 
+* Fixed Contact Form Issue
+* Fixed Responsive 
+* Fixed Logo height & Width Issue
+
+= 1.1.9 - Oct 31 2017 =
+* Tested with latest version
+
+= 1.1.8 - Jun 24 2017 =
+* Fixed defaults for meta display
+
+= 1.1.7 - Jun 22 2017 =
+* Added ability to customize read more button text 
+* Added ability to show 0 posts in about , services and team sections.
+* Added ability to hide and show meta such as author, date, comment count, tags and categories.
+
+= 1.1.6 - Jun 15 2017 =
+* Added kirki toolkit
+* Compressed screenshot image
+* Use smaller font for home slider 
+* Added fallback menu
+
+= 1.1.5 - Jun 14 2017 =
+* Added hover transition to read more button
+* Removed bottom border last child of list item in sidebar widgets
+* Fixed main navigation position when admin bar is shown
+* Added slider to blog page
+* Replaced require_once call with get_template_part
+
+= 1.1.4 - Jun 10 2017 =
+* Added Go Pro button in customizer
+
+= 1.1.3 - June 8 2017 =
+* Changed the tags in readme file and style.css file
+* Changed filename of template file
+* Tested with WordPress 4.8
+
+= 1.1.2 - June 7 2017 =
+* Fixed date format to use default
+* Fixed escaping in front page
+* Check if needed before loading 3rd party php lib
+* Removed comment-form from html5 theme support
+* Added credits to TGM library
+* Removed unused code from extras.php
+* Search form placeholder made translatable and escaped
+* Removed external SVG icons 
+* Escaped all traslatable strings in customizer
+
+= 1.1.1 - June 3 2017 =
+* Fixed siderbar initialization when no posts
+* Fixed double escape calls in footer 
+* Fixed call to get_search_form 
+
+= 1.1.0 - May 29 2017 =
+* Removed commented code
+* Fixed additional sanitize calls in customizer
+* Fixed main navigation on front page
+
+= 1.0.9 - May 24 2017 =
+* Fixed calls to escaping functions 
+* Removed inline style
+* Made default text ready for translation
+* Removed handler from call to add_editor_style
+* Removed comment code from footer
+* Fixed field type in customizer
+* Fixed sanitization of image / radio / select field types in customizer
+
+= 1.0.8 - May 24 2017 =
+* Fixed some minor issue 
+
+= 1.0.7 - May 23 2017 =
+* Fixed some minor issue 
+
+= 1.0.6 - May 19 2017 =
+* Fixed main navigation layout
+
+= 1.0.4 - May 19 2017 =
+* sanitization error fixed
+
+
+= 1.0.4 - May 17 2017 =
+* Escaping fixed in several files
+* Comment form Error Fixed
+* Other Minor Fixation
+* Customizer Validation Fixed
+* Minor CSS Edit
+* Translation Missing field Fixed
+* education-one.pot is Updated
+* Theme Prefix fixed in functions.php and in Other files
+
+= 1.0.3 - May 08 2017 =
+* Escaping fixed in content-none.php, header.php
+* By Default social links are disabled
+* fixed prefix in enqueue of scripts ,CSS & Fonts
+* Missing Variable Names Fixed 
+* WP Default sanitization is used instead of education_one_sanitize_text
+* Breadcrumbs.php is added 
+* education-one.pot is updated
+
+= 1.0.2 - May 06 2017 =
+* fixed variable name 
+
+= 1.0.1 - May 04 2017 =
+* removed content creation sections
+* education-one.pot created and added 
+* Escaping issue is fixed 
+* text-domain changed to education-one instead of educationone
+* Background image is changed and removed error.png
+* Widget.php is removed
+* Deleted Content Creation Part 
+* All Customizer section is disabled by default
+* Removed Commented Code
+* Theme URI Redirection is fixed 
+* Removed mixed line ending of CSS and Js
+* HEADER_TEXTCOLOR constant is removed 
+* License of third party image and script is added
+* Changelog.txt is added
+* wp_enqueue_script('jquery') is removed from functions.php
+* home url is escaped in each file
+* wp_link_pages is added in content-page.php
+
+
+= 1.0.0 - April 10 2016 =
+* Initial release

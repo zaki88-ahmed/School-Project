@@ -1,0 +1,106 @@
+/*
+Theme Name: Metlux
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+@media (min-width:1921px) {
+    .alignright{float:left;margin-right:10px;}
+    .alignleft{float:right;margin-left:10px;}
+    .aligncenter{margin-left:auto;margin-right:auto;}
+    blockquote{border-right:2px solid #00bcd4;}
+    .page-header .page-title .divider:before{right:-30px;}
+    .page-header .page-title .divider:after{left:-30px;}
+    .overlay:after{right:0;left:0;}
+    .section-title .divider:before{right:50%;margin-right:-15px;}
+    .section-title .divider:after{right:50%;margin-right:-10px;}
+    .img-bg .section-title .divider{border-color:rgba(255, 0.3) 255, 255,;}
+    .navbar-nav:not(.sm-collapsible) ul .caret{left:0;margin-left:15px;border-right:4px dashed;}
+    .navbar-nav:not(.sm-collapsible) ul a.has-submenu{padding-left:30px;}
+    .navbar-nav.sm-collapsible .caret, .navbar-nav.sm-collapsible ul .caret{left:0;margin:-3px 0 0 15px;}
+    .navbar-nav.sm-collapsible a.has-submenu{padding-left:50px;}
+    .navbar-nav.sm-collapsible[data-sm-skip-collapsible-behavior] .caret, .navbar-nav.sm-collapsible[data-sm-skip-collapsible-behavior] ul .caret{margin:0 2px 0 0;border-left:4px solid transparent;border-right:4px solid transparent;}
+    .navbar-nav.sm-collapsible[data-sm-skip-collapsible-behavior] a.has-submenu{padding-left:15px;}
+    .navbar-nav span.scroll-up-arrow, .navbar-nav span.scroll-down-arrow{right:50%;margin-right:-8px;border-left:7px dashed transparent;border-right:7px dashed transparent;}
+    .navbar-nav span.scroll-down-arrow{border-left:7px dashed transparent;border-right:7px dashed transparent;}
+    .navbar-nav.sm-collapsible ul .dropdown-menu > li > a,.navbar-nav.sm-collapsible ul .dropdown-menu .dropdown-header{padding-right:35px;}
+    .navbar-nav.sm-collapsible ul ul .dropdown-menu > li > a,.navbar-nav.sm-collapsible ul ul .dropdown-menu .dropdown-header{padding-right:45px;}
+    .navbar-nav.sm-collapsible ul ul ul .dropdown-menu > li > a,.navbar-nav.sm-collapsible ul ul ul .dropdown-menu .dropdown-header{padding-right:55px;}
+    .navbar-nav.sm-collapsible ul ul ul ul .dropdown-menu > li > a,.navbar-nav.sm-collapsible ul ul ul ul .dropdown-menu .dropdown-header{padding-right:65px;}
+    .navbar-right ul.dropdown-menu, .navbar-right div.dropdown-menu{right:0;left:auto;}
+    .scroll-top-wrapper{left:22px;}
+    .right-clear{padding-left:0;}
+    .logo-menu{right:0;left:0;}
+    .navbar-right .dropdown-menu{left:auto;right:0;}
+    .mega-menu{right:0 !important;left:0 !important;margin-right:0 !important;}
+    .carousel-inner > .item::after{right:0;left:0;}
+    .carousel-caption{right:0;left:0;}
+    .carousel-caption.text-left .inner{text-align:right;}
+    .carousel-caption.text-right .inner{text-align:left;}
+    .welcome .single{margin:50px auto 80px auto;}
+    .welcome .single .icon-outer{right:50%;margin-right:-50px;}
+    .welcome .single:hover h2:after{border-color:rgba(255, 0.3) 255, 255,;}
+    .welcome .single:hover .icon-outer{border-color:rgba(255, 0.2) 255, 255,;}
+    .welcome .single:hover .icon-outer .icon{border-color:rgba(255, 0.2) 255, 255,;}
+    .services:after{right:0;left:0;}
+    .services .single{margin:0 auto 160px auto;}
+    .services .single:after{right:50%;margin-right:-50px;}
+    .portfolio .tab-content .single{margin-left:auto;margin-right:auto;}
+    .portfolio .tab-content .single .on-hover{right:0;left:0;}
+    .portfolio .tab-content .single .on-hover a{right:50%;margin-right:-50px;}
+    .metlux-video .modal-footer{text-align:right !important;}
+    .our-team .single{margin:0 auto 80px auto;}
+    .our-team .single:hover .image:after{right:0;left:0;}
+    .our-team .single .image ul{right:0;left:0;}
+    .testimonials #testimonials .item .single .feedback.top:after{border-left:15px solid transparent;border-right:15px solid transparent;right:30px;}
+    .testimonials #testimonials .item .single .feedback.bottom:after{border-left:15px solid transparent;border-right:15px solid transparent;right:30px;}
+    .news-blog .single .date{float:right;margin-left:15px;}
+    .home-newsletter:after{right:0;left:0;}
+    .home-newsletter .single .form-control{border-radius:0 20px 20px 0;}
+    footer .right-border{border-left:none;}
+    footer .left-border{border-right:none;}
+    footer .contact-info .single i{float:right;margin-left:10px;}
+    footer .social-icon li a{margin-left:5px;}
+    .inner-page .post-single .date-title .date{float:right;}
+    .inner-page .post-single .date-title .date strong{border-left:1px solid #f0f0f0;}
+    .inner-page .post-single .date-title .date p{left:0;}
+    .inner-page .post-single .date-title .title{padding-right:10px;}
+    .inner-page aside.sidebar .single .thumb{float:right;margin-left:10px;}
+    .inner-page aside.sidebar .single.comments li a span{margin-left:10px;}
+    .inner-page aside.sidebar .single.contact-info li .icon{float:right;margin-left:10px;}
+    .inner-page .post-grid .post-single .featured-image .category{right:10px;}
+    .inner-page .post-grid .post-single .featured-image .date{right:10px;}
+    .inner-page .post-grid .post-single .featured-image .date strong{float:right;margin-left:10px;border-left:1px solid rgba(255, 255, 255, 0.3);padding-left:10px;}
+    .inner-page .masnory-single .post-single .featured-image .category{right:10px;}
+    .inner-page .masnory-single .post-single .featured-image .date{right:10px;}
+    .inner-page .masnory-single .post-single .featured-image .date strong{float:right;margin-left:10px;border-left:1px solid rgba(255, 255, 255, 0.3);padding-left:10px;}
+    .inner-page .single-page .featured-image .date{right:10px;}
+    .inner-page .single-page .featured-image .date strong{float:right;margin-left:10px;border-left:1px solid rgba(255, 255, 255, 0.3);padding-left:10px;}
+    .inner-page .single-page .content ul{padding-right:0;}
+    .inner-page .single-page .content ul li:before{margin-left:5px;}
+    .inner-page .single-page .author-box .image{float:right;margin-left:10px;}
+    .inner-page .single-page .metlux-comments ul{padding-right:0;}
+    .inner-page .single-page .metlux-comments ul li .image{float:right;margin-left:10px;}
+    .who-we-are .content ul li:before{margin-left:10px;}
+    .who-we-are .content ul li:hover{margin-right:10px;}
+    .progress-sec:after{right:0;left:0;}
+    .progress-sec .progress-col strong{right:50%;left:auto;margin-right:-50px;}
+    .why-choose-us .single{margin:0 auto 60px auto;}
+    .downloads .btn:hover{border-color:rgba(255, 0.3) 255, 255,;}
+    .what-we-offer:after{right:0;left:0;}
+    .what-we-offer .column:nth-child(2), .what-we-offer .column:nth-child(5), .what-we-offer .column:nth-child(8){border-right:1px solid #eee;border-left:1px solid #eee;}
+    .not-found form{margin-left:auto;margin-right:auto;}
+    .metlux-comments-page ul{padding-right:0;}
+    .metlux-comments-page ul li .image{float:right;margin-left:10px;}
+    img.avatar.avatar-32.photo{float:right;margin-left:10px;}
+    .reply{margin-right:50px;}
+    .newsletter-submit{border-bottom-right-radius:0;}
+    .newsletter-email{border-radius:0 20px 20px 0;float:right;}
+    .left-border ul{margin-right:-38px;}
+    .social-icon ul{margin-right:0px;}
+}

@@ -1,0 +1,56 @@
+
+#customize-theme-controls #accordion-section-oceanic-styling h3:hover,
+#customize-theme-controls #accordion-section-oceanic-website h3:hover,
+#customize-theme-controls #accordion-section-oceanic-footer h3:hover,
+#customize-theme-controls #accordion-section-oceanic-header h3:hover,
+#customize-theme-controls #accordion-section-oceanic-google-map h3:hover,
+#customize-theme-controls #accordion-section-oceanic-contact-details h3:hover,
+#customize-theme-controls #accordion-section-oceanic-layout h3:hover,
+#customize-theme-controls #accordion-section-oceanic-slider h3:hover,
+#customize-theme-controls #accordion-section-oceanic-blog h3:hover,
+#customize-theme-controls #accordion-section-oceanic-social h3:hover,
+#customize-theme-controls #accordion-section-oceanic-logo-and-favicon h3:hover {
+    background-color: #01B6AD;
+	color: #FFFFFF;
+}
+
+#customize-theme-controls #accordion-section-oceanic-styling.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-website.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-footer.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-header.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-google-map.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-contact-details.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-layout.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-slider.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-blog.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-social.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-logo-and-favicon.control-section.open h3 {
+    background-color: #01B6AD !important;
+	color: #FFFFFF;
+}
+
+.freelancelot-upsell {
+   padding: 10px 0 5px;
+}
+.freelancelot-upsell-title {
+   font-weight: 600;
+}
+.freelancelot-upsell-btn {
+	background-color: #01B6AD;
+	display: inline-block;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+	margin: 8px 0 0;
+	padding: 8px 20px 10px;
+	color: #ECECEC;
+	text-decoration: none;
+}
+.freelancelot-upsell-btn:hover {
+   background-color: #019289;
+   color: #FFF;
+}
+.freelancelot-upsell-desc {
+   font-size: 12px;
+   padding: 4px 0 0;
+}

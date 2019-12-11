@@ -1,0 +1,108 @@
+Changelog
+Tested up to: 5.0.1
+
+version 1.2.0
+i)      Tested with latest version
+ii)     Fixed all Error 
+iii)	Fixed avatar size
+version 1.1.8
+i)      Tested with latest version
+ii)     Fixed all Error 
+iii)	Fixed responsive menu
+
+version 1.1.8
+i)      Tested with latest version
+ii)     Fixed Customizer Section Slider 
+iii)	Thumbnail Responsive Image size Fixed
+iv)		Fixed Logo size
+
+version 1.1.7
+i)      Tested with latest version
+
+version 1.1.6
+i)      Tested with latest RC
+
+version 1.1.5
+i) 		Fixed url of full demo.
+
+version 1.1.4
+i) 		Pro Version Link is Added.
+ii)		Escaping issue is fixed.
+
+version 1.1.3
+i) 		Escaping issue is fixed
+ii)		Custom Category replaced with default WP function
+iii)	Other Minor CSS change
+
+version 1.1.2
+i) 		Escaping issue is fixed
+ii)  	get_search_form() removed from 404.php	
+
+version 1.1.1
+i) 		Fixation on escaping.
+ii)  	Fixed error	
+
+version 1.1.0
+i) 		Fixation on escaping.
+ii)  	Fixed conditional error.
+
+version 1.0.9 
+i) 		Fixation on escaping, Translation to Empty Strings.
+ii)     Removed deprecated constants.
+iii)    Fixation regarding internationalization.
+
+
+version 1.0.8 
+i) 		Spelling Error Fixed
+ii)		Screenshot Changed
+iii) 	License Added of Glyphon free Version
+iv)		100% GPL image is added 
+v)		Website Domain is Up
+vi)		Check with theme Unit test
+
+
+version 1.0.7 
+i) 		PHP Error Fixed  
+
+version 1.0.6 
+i) 		Google Font Enqueue is fixed 
+ii)		Removed Double loading of editor style
+iii) 	Full Theme URL is Added in style.css
+
+version 1.0.5 
+i) 		Sanitization added 
+ii)		removed Content Creation sections 
+iii) 	formatting of CSS
+iv)		adding few CSS
+v) 		Removed Content Creation Codes 
+
+version 1.0.4 
+i) 		Fixation on Sanition, Escaping
+ii)		removed unused code and files
+
+v)		Default Text are removed 
+version 1.0.3 
+i) 		Fixation on Sanition, Escaping
+ii)		Removed Unused CS
+iii)	Default URL of Social Is removed 
+iv) 	License URL is Added 
+v)		Default Text are removed 
+
+version 1.0.2
+i)		Esccaping and sanitization issues fixed
+ii)		Moved Testimonial section up.
+iii)	Language File Updated.
+iv)		Fixed other minor functionalities.
+
+
+Version 1.0.1
+i)      Fix the issues of escaping.	
+ii)     Added tag those are supported by our theme.		
+iii)    Function Prefix fixed.
+iv)     Remove the unwanted function.
+v)		Removed Pricing Section and Widget Folder
+vi)		Screenshot Changed.
+
+Version 1.0.0
+i)   	Intial version Release
+

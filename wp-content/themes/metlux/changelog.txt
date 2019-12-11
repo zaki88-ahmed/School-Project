@@ -1,0 +1,81 @@
+Changelog
+
+Tested up to: 5.0.1
+Version 1.1.7
+1) Tested with latest wordpress
+2) Fixed color in active menu item
+
+Version 1.1.6
+1) Tested with latest updates
+2) Css Bug fixed
+3) Footer widget Fided
+
+Version 1.1.5
+i) Tested with latest updates
+
+Version 1.1.4
+i) Tested with latest RC
+
+Version 1.1.3
+i) Fixed CSS media query
+
+Version 1.1.2
+i) Fixed main menu background for small device
+
+Version 1.1.0
+i) Pro Version Link is Added 
+
+Version 1.1.0
+i) Escaping issue fixed
+ii) title tag fixed
+
+Version 1.0.9
+i) Escaping issue fixed
+ii) Transalation ready fixed 
+
+
+Version 1.0.8
+i) fixed some error
+
+Version 1.0.7
+i)   	CSS Indentation optimized.
+ii)		Custom Logo Support Added.
+iii)    Image source escaped on template-team.php
+iv)     Email escaped in content-single.php
+
+Version 1.0.6
+i)   	css/custom-rtl.css replaced with rtl.css
+ii)		post_class() added
+iii)	<link rel="profile" href="http://gmpg.org/xfn/11"> added
+iv)		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+v)		other minor fixes
+
+Version 1.0.5
+i)   	Fixed some CSS
+ii)		Screenshot Changed
+
+Version 1.0.4
+i)   	Fixed some issue of sanitization and escaping
+
+Version 1.0.3 
+i)   	Missing Escaping fixed
+ii)		Removed the comment-form and comment-list from add_theme_support
+
+Version 1.0.2 
+i)   	Sanitization and Validations
+ii)		Error Fixation
+
+
+Version 1.0.1
+i)   	Addition of Features
+
+Version 1.0.0
+i)   	Intial version Release
+
+
+
+
+
+
+
+    

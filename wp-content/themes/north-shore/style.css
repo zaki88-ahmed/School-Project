@@ -1,0 +1,403 @@
+/*
+Theme Name: North Shore
+Theme URI: https://www.outtheboxthemes.com/wordpress-themes/north-shore/
+Author: Out the Box
+Author URI: https://www.outtheboxthemes.com/
+Description: North Shore is a redesigned look with an ocean feel for our multipurpose theme CityLogic. North Shore's modest but eye-catching design makes it a great choice for creating any website from travel to business to food, decor, lifestyle, sport and more. The ability to have a transparent header allows the use of bold homepage imagery by displaying either a static header image or slider - with the choice of using the built-in slider or any 3rd party slider plugin of your choice. North Shore integrates seamlessly with a number of popular FREE plugins such as WooCommerce, Contact Form 7 and Recent Posts Widget Extended. It also works great with SiteOrigin's Page Builder plugin making it quick and easy to create professional looking pages without any coding knowledge. You're always one step ahead with North Shore! 
+Template: citylogic
+Version: 1.0.21
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: north-shore
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, e-commerce, holiday
+*/
+
+.site-header .branding .title {
+	font-size: 45px;
+	letter-spacing: 1px;
+}
+.site-header .branding .description {
+	letter-spacing: 1px;
+}
+
+.header-image .overlay-container .overlay .opacity p,
+.slider-container.default .slider .slide .overlay .opacity p {
+	line-height: 1.7em;
+}
+
+.header-image .opacity,
+.slider-container.default .slider .slide .opacity {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 1000px) {
+    /* Mobile Menu Color */
+	#main-menu {
+		background-color: #33a7a4;
+	}
+}
+
+/*--------------------------------------------------------------
+Fallback CSS for Customizer Library Styles
+--------------------------------------------------------------*/
+
+/* Top Bar Color */
+.site-top-bar,
+.site-header .site-top-bar .site-container,
+.site-header .site-top-bar-left,
+.site-header .site-top-bar-right {
+	background-color: #33a7a4;
+}
+
+/* Primary Color */
+.search-button .otb-fa-search,
+.search-button .otb-fa-search:hover,
+.widget_mc4wp_form_widget .mc4wp-submit .otb-fa,
+.widget_search .search-submit .otb-fa,
+.widget_product_search .search-submit .otb-fa,
+.info-text em,
+.site-header .site-header-right a:hover,
+.site-header.transparent .site-header-right a:hover,
+.site-header.translucent .site-header-right a:hover,
+.main-navigation ul ul a:hover,
+.main-navigation ul ul li.current-menu-item > a,
+.main-navigation ul ul li.current_page_item > a,
+.main-navigation ul ul li.current-menu-parent > a,
+.main-navigation ul ul li.current_page_parent > a,
+.main-navigation ul ul li.current-menu-ancestor > a,
+.main-navigation ul ul li.current_page_ancestor > a,
+.site-header .site-container .main-navigation ul ul a:hover,
+.site-header .site-container .main-navigation ul ul li.current-menu-item > a,
+.site-header .site-container .main-navigation ul ul li.current_page_item > a,
+.site-header .site-container .main-navigation ul ul li.current-menu-parent > a,
+.site-header .site-container .main-navigation ul ul li.current_page_parent > a,
+.site-header .site-container .main-navigation ul ul li.current-menu-ancestor > a,
+.site-header .site-container .main-navigation ul ul li.current_page_ancestor > a,
+.main-navigation.transparent ul ul a:hover,
+.main-navigation.transparent ul ul li.current-menu-item > a,
+.main-navigation.transparent ul ul li.current_page_item > a,
+.main-navigation.transparent ul ul li.current-menu-parent > a,
+.main-navigation.transparent ul ul li.current_page_parent > a,
+.main-navigation.transparent ul ul li.current-menu-ancestor > a,
+.main-navigation.transparent ul ul li.current_page_ancestor > a,
+.site-header.transparent .site-container .main-navigation ul ul a:hover,
+.site-header.transparent .site-container .main-navigation ul ul li.current-menu-item > a,
+.site-header.transparent .site-container .main-navigation ul ul li.current_page_item > a,
+.site-header.transparent .site-container .main-navigation ul ul li.current-menu-parent > a,
+.site-header.transparent .site-container .main-navigation ul ul li.current_page_parent > a,
+.site-header.transparent .site-container .main-navigation ul ul li.current-menu-ancestor > a,
+.site-header.transparent .site-container .main-navigation ul ul li.current_page_ancestor > a,
+.woocommerce .woocommerce-breadcrumb a,
+.woocommerce-page .woocommerce-breadcrumb a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.site-content .widget-title,
+.site-content .rpwe-block h3 a,
+blockquote,
+.required,
+.color-text,
+.citylogic-page-builders-use-theme-styles .testimonials .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper p {
+    color: #33a7a4;
+}
+
+/*.citylogic-page-builders-use-theme-styles .sow-icon-fontawesome,*/
+.site-header.forced-solid .main-navigation .search-button .otb-fa-search,
+.site-header.forced-solid .main-navigation .search-button .otb-fa-search:hover {
+	color: #33a7a4 !important;
+}
+
+div.wpforms-container form.wpforms-form input[type="text"]:focus,
+div.wpforms-container form.wpforms-form input[type="email"]:focus,
+div.wpforms-container form.wpforms-form input[type="tel"]:focus,
+div.wpforms-container form.wpforms-form input[type="number"]:focus,
+div.wpforms-container form.wpforms-form input[type="url"]:focus,
+div.wpforms-container form.wpforms-form input[type="password"]:focus,
+div.wpforms-container form.wpforms-form input[type="search"]:focus,
+div.wpforms-container form.wpforms-form select:focus,
+div.wpforms-container form.wpforms-form textarea:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+select:focus,
+textarea:focus,
+.site-content .rpwe-block li,
+.hentry,
+.paging-navigation,
+.widget-area .widget_mc4wp_form_widget.focused *,
+.widget-area .widget_search.focused *,
+.widget-area .widget_product_search.focused *,
+.widget-area .widget,
+.site-footer-widgets .widget_mc4wp_form_widget.focused *,
+.search-results article {
+	border-color: #33a7a4;
+}
+
+#back-to-top,
+#comments .form-submit #submit,
+.no-results-btn,
+button,
+a.button,
+.widget-area .widget a.button,
+.citylogic-page-builders-use-theme-styles .widget_sow-button .ow-button-base a,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+hr,
+ul.sections > li hr.divider,
+.main-navigation li:hover .indicator,
+.main-navigation li.current_page_item .indicator,
+.main-navigation li.current-menu-item .indicator,
+.main-navigation li.current-menu-parent .indicator,
+.main-navigation li.current-menu-ancestor .indicator,
+.main-navigation li.current_page_parent .indicator,
+.main-navigation .search-button:hover .indicator,
+.side-aligned-social-links .social-links li,
+.site-footer-widgets .site-container .widgets-container .divider,
+.widget-area .widget h2.widget-title:after,
+.site-footer-widgets .site-container .widgets-container .widget h2.widgettitle:after,
+.woocommerce ul.products li.product a.add_to_cart_button,
+.woocommerce-page ul.products li.product a.add_to_cart_button,
+.woocommerce ul.products li.product a.button.product_type_simple,
+.woocommerce-page ul.products li.product a.button.product_type_simple,
+.woocommerce button.button:disabled,
+.woocommerce button.button:disabled[disabled],
+.woocommerce button.button:disabled:hover,
+.woocommerce button.button:disabled[disabled]:hover,
+.woocommerce button.button.alt:disabled,
+.woocommerce button.button.alt:disabled[disabled],
+.woocommerce button.button.alt:disabled,
+.woocommerce button.button.alt:disabled:hover,
+.woocommerce button.button.alt:disabled[disabled],
+.woocommerce button.button.alt:disabled[disabled]:hover,
+.woocommerce button.button,
+.woocommerce button.button.alt,
+.woocommerce button.button.alt.disabled,
+.woocommerce button.button.alt.disabled:hover,
+.woocommerce a.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce-page #content input.button.alt,
+.woocommerce .cart-collaterals .shipping_calculator .button,
+.woocommerce-page .cart-collaterals .shipping_calculator .button,
+.woocommerce a.button,
+.woocommerce-page a.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page input.button,
+.woocommerce #review_form #respond .form-submit input,
+.woocommerce-page #review_form #respond .form-submit input,
+.wpcf7-submit,
+div.wpforms-container form.wpforms-form input[type=submit],
+div.wpforms-container form.wpforms-form button[type=submit],
+div.wpforms-container form.wpforms-form .wpforms-page-button,
+.site-footer-bottom-bar,
+.citylogic-page-builders-use-theme-styles .testimonials .sow-slider-base .sow-slide-nav {
+    background-color: #33a7a4;
+}
+
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-message {
+	border-top-color: #33a7a4;
+}
+
+::-moz-selection{
+	background-color: #33a7a4;
+}
+::selection {
+	background-color: #33a7a4;
+}
+
+/* Secondary Color */
+.widget_mc4wp_form_widget .mc4wp-submit .otb-fa:hover,
+.widget_search .search-submit .otb-fa:hover,
+.widget_product_search .search-submit .otb-fa:hover,
+.widget_citylogic_social_media_links_widget .social-links li a:hover,
+.site-content .rpwe-block h3.rpwe-title a:hover,
+.woocommerce .woocommerce-breadcrumb a:hover,
+.woocommerce-page .woocommerce-breadcrumb a:hover,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active {
+    color: #004652;
+}
+
+#back-to-top .hover,
+.main-navigation button:hover,
+#comments .form-submit #submit:hover,
+.no-results-btn:hover,
+button:hover,
+a.button:hover,
+.widget-area .widget a.button:hover,
+.citylogic-page-builders-use-theme-styles .widget_sow-button .ow-button-base a.ow-button-hover:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+.side-aligned-social-links .social-links li:hover,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.woocommerce input.button.alt:hover,
+.woocommerce-page #content input.button.alt:hover,
+.woocommerce .cart-collaterals .shipping_calculator .button,
+.woocommerce-page .cart-collaterals .shipping_calculator .button,
+.woocommerce a.button:hover,
+.woocommerce-page a.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce ul.products li.product a.add_to_cart_button:hover,
+.woocommerce-page ul.products li.product a.add_to_cart_button:hover,
+.woocommerce ul.products li.product a.button.product_type_simple:hover,
+.woocommerce-page ul.products li.product a.button.product_type_simple:hover,
+.woocommerce button.button:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce #review_form #respond .form-submit input:hover,
+.woocommerce-page #review_form #respond .form-submit input:hover,
+.wpcf7-submit:hover,
+div.wpforms-container form.wpforms-form input[type=submit]:hover,
+div.wpforms-container form.wpforms-form button[type=submit]:hover,
+div.wpforms-container form.wpforms-form .wpforms-page-button:hover,
+.citylogic-page-builders-use-theme-styles .testimonials .sow-slider-base .sow-slide-nav:hover {
+    background-color: #004652;
+}
+
+/* Link Color */
+a,
+#cancel-comment-reply-link {
+	color: #33a7a4;
+}
+
+/* Link Rollover Color */
+a:hover,
+#cancel-comment-reply-link:hover,
+.widget-area .widget ul li a:hover,
+.site-footer-widgets .widget ul li a:hover {
+	color: #004652;
+}
+
+/* Mobile Menu Button Background Color */
+.site-header-right .header-menu-button {
+	background-color: #33a7a4;
+}
+
+/* Site Title Font */
+.site-header .branding .title {
+	font-family: "Nothing You Could Do","Helvetica Neue", sans-serif;
+}
+
+/* Site Title Solid Font Color */
+.site-header .branding .title {
+	color: #33a7a4;
+}
+
+.site-header.forced-solid .branding .title {
+	color: #33a7a4 !important;
+}
+
+/* Site Title Translucent Font Color */
+.site-header.translucent .branding .title {
+	color: #33a7a4;
+}
+
+/* Site Title Transparent Font Color */
+.site-header.transparent .branding .title {
+	color: #33a7a4;
+}
+
+/* Heading Font */
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.widget-area .widget h2,
+.site-footer-widgets ul li h2.widgettitle,
+.header-image .overlay .opacity h1,
+.header-image .overlay .opacity h2,
+.slider-container.default .slider .slide .overlay .opacity h1,
+.slider-container.default .slider .slide .overlay .opacity h2,
+.woocommerce a.button,
+.woocommerce-page a.button,
+.woocommerce a.button.alt,
+.woocommerce table.cart th,
+.woocommerce-page #content table.cart th,
+.woocommerce-page table.cart th,
+.woocommerce input.button.alt,
+.woocommerce-page #content input.button.alt,
+.woocommerce table.cart inputinput[type="submit"],
+.woocommerce-page #content table.cart inputinput[type="submit"],
+.woocommerce-page table.cart inputinput[type="submit"],
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+button,
+a.button,
+.widget-area .widget a.button,
+.citylogic-page-builders-use-theme-styles .widget_sow-button .ow-button-base a,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	font-family: "Raleway", sans-serif;
+}
+
+/* Heading Font Weight */
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.widget-area .widget h2,
+.site-footer-widgets ul li h2.widgettitle {
+	font-weight: 300;
+}
+
+/* Navigation Menu Rollover Background Color */
+.main-navigation.rollover-background-color a:hover,
+.main-navigation.rollover-background-color li.current-menu-item > a,
+.main-navigation.rollover-background-color li.current_page_item > a,
+.main-navigation.rollover-background-color li.current-menu-parent > a,
+.main-navigation.rollover-background-color li.current_page_parent > a,
+.main-navigation.rollover-background-color li.current-menu-ancestor > a,
+.main-navigation.rollover-background-color li.current_page_ancestor > a,
+.main-navigation.rollover-background-color button {
+	background-color: #33a7a4;
+}
+
+/* Navigation Menu Color */
+.main-navigation {
+	background-color: #004652;
+}
+
+/* Navigation Menu Font */
+.site-header .site-header-right .main-navigation .menu > ul > li > a,
+.site-header .site-header-right .main-navigation ul.menu > li > a,
+.main-navigation .menu > ul > li > a,
+.main-navigation ul.menu > li > a,
+.main-navigation .search-button a {
+	font-family: "Raleway", sans-serif;
+}
+
+.main-navigation .menu > ul > li > a,
+.main-navigation ul.menu > li > a {
+	font-weight: 400;
+}
+
+/* Navigation Menu Solid Font Color */
+.main-navigation .menu > ul > li > a,
+.main-navigation .menu > ul > li > a:hover,
+.main-navigation ul.menu > li > a,
+.main-navigation ul.menu > li > a:hover,
+.main-navigation .search-button a,
+.main-navigation .search-button a:hover,
+.header-menu-button .otb-fa.otb-fa-bars {
+	color: #FFFFFF;
+}
+
+.site-header.forced-solid .main-navigation .menu > ul > li > a,
+.site-header.forced-solid .main-navigation .menu > ul > li > a:hover,
+.site-header.forced-solid .main-navigation ul.menu > li > a,
+.site-header.forced-solid .main-navigation ul.menu > li > a:hover,
+.site-header.forced-solid .main-navigation .search-button a,
+.site-header.forced-solid .main-navigation .search-button a:hover {
+	color: #FFFFFF !important;
+}

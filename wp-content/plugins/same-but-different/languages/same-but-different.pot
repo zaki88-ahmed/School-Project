@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: same-but-different\n"
+"POT-Creation-Date: 2019-11-13 09:24+0200\n"
+"PO-Revision-Date: 2016-11-07 19:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: library/classes/otb-same-but-different-admin-api.php:163
+msgid "Upload an image"
+msgstr ""
+
+#: library/classes/otb-same-but-different-admin-api.php:163
+msgid "Use image"
+msgstr ""
+
+#: library/classes/otb-same-but-different-admin-api.php:163
+msgid "Upload new image"
+msgstr ""
+
+#: library/classes/otb-same-but-different-admin-api.php:164
+msgid "Remove image"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:70
+#: library/classes/otb-same-but-different.php:104
+#: library/classes/otb-same-but-different.php:297
+msgid "Settings"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:71
+msgid "Configure the related posts."
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:75
+msgid "Display on posts"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:82
+#: library/classes/otb-same-but-different-widget.php:167
+msgid "Title"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:90
+msgid "Number of posts to show"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:98
+msgid "Order"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:109
+msgid "Show"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:117
+msgid "Relate by"
+msgstr ""
+
+#: library/classes/otb-same-but-different-settings.php:204
+#: library/classes/otb-same-but-different-settings.php:213
+#: library/classes/otb-same-but-different.php:433
+#: library/classes/otb-same-but-different.php:442
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:11
+#: library/classes/otb-same-but-different.php:210
+#: library/classes/otb-same-but-different.php:211
+#: library/template-parts/tabs.php:3
+msgid "Same but Different"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:14
+msgid "Display related posts based on common categories and tags."
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:72
+msgid "Related Posts"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:140
+msgid "Title:"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:147
+msgid "Number of posts to show:"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:154
+msgid "Order:"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:157
+msgid "Date ascending"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:158
+msgid "Date descending"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:164
+msgid "Show:"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:166
+msgid "Thumbnail"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:172
+msgid "Relate by:"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:174
+msgid "Category"
+msgstr ""
+
+#: library/classes/otb-same-but-different-widget.php:175
+msgid "Tag"
+msgstr ""
+
+#: library/classes/otb-same-but-different.php:109
+msgid "Our Themes"
+msgstr ""
+
+#: library/template-parts/content-settings.php:12
+msgid "Save"
+msgstr ""
+
+#: library/template-parts/content-themes.php:5
+msgid "Check out our themes!"
+msgstr ""
+
+#: library/template-parts/content-themes.php:9
+msgid "If you like this plugin you might like our themes!"
+msgstr ""
+
+#: library/template-parts/content-themes.php:44
+msgid "Coming soon!"
+msgstr ""

@@ -1,0 +1,118 @@
+/*
+Theme Name: Ocean SEO
+Description: Ocean SEO is the ultimate responsive, seo friendly, fast to load, customizable and full functional WordPress theme for business websites. Theme Features: Responsive, Optimized for search engines, structured data, SEO recommended page structure, header layouts, top bar, left sidebar, right sidebar, full width layout, footer widgets, typography, blog options, WooCommerce compatibility and options, page builder templates and much more. it is child theme of Di Business and adds additional WooCommerce options, a fixed position call to action button, WooCommerce Wishlist and Quick View styles.
+Version: 1.0
+Author: DiThemes
+Author URI: https://dithemes.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, wide-blocks, blog, e-commerce, news
+Text Domain: ocean-seo
+Template: di-business
+*/
+
+/*
+ * WooCommerce additional style
+ */
+
+/* product list style */
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	border: 1px solid #F8F8F8;
+	overflow: hidden;
+	text-align: center;
+}
+
+/* star rating style on product listing page */
+.woocommerce ul.products li.product .star-rating {
+	margin: 0 auto;
+	padding: 10px 0;
+}
+
+/* wishlist style */
+
+.woocommerce ul.products li.product .tinvwl_add_to_wishlist_button.tinvwl-icon-heart.tinvwl-position-after, .woocommerce-page ul.products li.product .tinvwl_add_to_wishlist_button.tinvwl-icon-heart.tinvwl-position-after {
+	position: absolute;
+	right: 0px;
+	display: block;
+	top: -10px;
+}
+
+.woocommerce ul.products li.product .tinvwl_add_to_wishlist-text, .woocommerce-page ul.products li.product .tinvwl_add_to_wishlist-text {
+	display: none;
+}
+
+.woocommerce ul.products li.product .tinv-wishlist {
+	visibility: hidden;
+}
+
+.woocommerce ul.products li.product:hover .tinv-wishlist {
+	visibility: visible;
+}
+
+/* onsale label style */
+.woocommerce ul.products li.product .onsale {
+	border-radius: 0px 0 15px 0;
+	margin: 0px 0px 0px 0px;
+	padding: 4px 11px;
+	line-height: 18px;
+	min-width: 0;
+	min-height: 0;
+	left: 0;
+	right: auto;
+	text-transform: uppercase;
+	font-size: 10px;
+	letter-spacing: 1px;
+}
+
+/* Wishlist style */
+.woocommerce ul.products li.product .button.yith-wcqv-button {
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity ease-in-out .5s;
+	position: absolute;
+	top: 30%;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.woocommerce ul.products li.product:hover .button.yith-wcqv-button {
+	visibility: visible;
+	opacity: 1;
+}
+
+/*
+ * Footer Menu Style
+ */
+.footer-menu {
+	list-style-type: none;
+	padding: 14px 0;
+	margin: 0 auto;
+	display: table;
+}
+
+.navbar-nav.footer-menu li {
+	display: inline-block;
+}
+
+.footer-menu li {
+	padding: 12px;
+}
+
+.footer-menu li a {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 14px;
+}
+
+/*
+ * Call now button style
+ */
+
+.callnowfooter {
+	display: none;
+}
+

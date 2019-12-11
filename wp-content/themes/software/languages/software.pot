@@ -1,0 +1,590 @@
+# Copyright (C) 2016 Ocean Web Themes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: software 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/software\n"
+"POT-Creation-Date: 2017-07-10 21:38+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: oceanwebthemes <info@oceanwebthemes.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr_x;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: changelog.txt\n"
+"X-Poedit-SearchPath-3: comments.php\n"
+"X-Poedit-SearchPath-4: footer.php\n"
+"X-Poedit-SearchPath-5: functions.php\n"
+"X-Poedit-SearchPath-6: header.php\n"
+"X-Poedit-SearchPath-7: index.php\n"
+"X-Poedit-SearchPath-8: page.php\n"
+"X-Poedit-SearchPath-9: searchform.php\n"
+"X-Poedit-SearchPath-10: sidebar.php\n"
+"X-Poedit-SearchPath-11: single.php\n"
+"X-Poedit-SearchPath-12: template-home.php\n"
+"X-Poedit-SearchPath-13: template-parts/content.php\n"
+"X-Poedit-SearchPath-14: template-parts/content-none.php\n"
+"X-Poedit-SearchPath-15: template-parts/content-page.php\n"
+"X-Poedit-SearchPath-16: template-parts/content-single.php\n"
+"X-Poedit-SearchPath-17: inc/custom-header.php\n"
+"X-Poedit-SearchPath-18: inc/customizer.php\n"
+"X-Poedit-SearchPath-19: inc/extras.php\n"
+"X-Poedit-SearchPath-20: inc/jetpack.php\n"
+"X-Poedit-SearchPath-21: inc/template-tags.php\n"
+"X-Poedit-SearchPath-22: inc/widgets.php\n"
+
+#: 404.php:22
+msgid " Oops!"
+msgstr ""
+
+#: 404.php:25
+msgid " We can't seem to find the page you're looking for"
+msgstr ""
+
+#: 404.php:28
+msgid " ERROR: 404"
+msgstr ""
+
+#: 404.php:31
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:27
+msgid "Category : "
+msgstr ""
+
+#: archive.php:31 archive.php:35 archive.php:39
+#, php-format
+msgid "Archive : %s"
+msgstr ""
+
+#: archive.php:43
+msgid "Tag : "
+msgstr ""
+
+#: archive.php:51
+msgid "Author : "
+msgstr ""
+
+#: archive.php:97 index.php:78
+msgid "<span aria-hidden=\"true\">&laquo;</span>"
+msgstr ""
+
+#: archive.php:98 index.php:79
+msgid "<span aria-hidden=\"true\">&raquo;</span>"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:49 comments.php:70
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52 comments.php:73
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:25 inc/customizer.php:461
+msgid "Testimonials"
+msgstr ""
+
+#: footer.php:55 inc/customizer.php:489
+msgid "&copy; 2016. Your Theme All Rights Reserved"
+msgstr ""
+
+#: footer.php:56
+msgid "Powered By :"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:119
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: functions.php:121
+msgid "Add Socialize Widget Here."
+msgstr ""
+
+#: functions.php:128
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "Add Testimonial Widget Here."
+msgstr ""
+
+#: functions.php:226
+msgid "Search results for"
+msgstr ""
+
+#: functions.php:285
+msgid "Posts tagged"
+msgstr ""
+
+#: functions.php:291
+msgid "Articles posted by"
+msgstr ""
+
+#: functions.php:295
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:302
+msgid "Page"
+msgstr ""
+
+#: functions.php:325
+msgid "Name"
+msgstr ""
+
+#: functions.php:327
+msgid "Email"
+msgstr ""
+
+#: functions.php:329
+msgid "Website"
+msgstr ""
+
+#: functions.php:339
+msgid "Comment"
+msgstr ""
+
+#: functions.php:350
+msgid "Submit"
+msgstr ""
+
+#: header.php:53
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Software Theme Option"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Software Theme Option."
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Slider Categories"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Select the Slide Category for Homepage."
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Enable/Disable Slider Section"
+msgstr ""
+
+#: inc/customizer.php:68 inc/customizer.php:155 inc/customizer.php:185
+#: inc/customizer.php:281 inc/customizer.php:346 inc/customizer.php:376
+#: inc/customizer.php:440 inc/customizer.php:525
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:69 inc/customizer.php:156 inc/customizer.php:186
+#: inc/customizer.php:282 inc/customizer.php:347 inc/customizer.php:377
+#: inc/customizer.php:441 inc/customizer.php:526
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Choose category"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "No Of Posts To Show On Slider Section"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "1"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "5"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "6"
+msgstr ""
+
+#: inc/customizer.php:113 inc/customizer.php:399 inc/customizer.php:415
+#: template-home.php:69
+msgid "Download"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Download Button  Text"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Download Link"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Enable/Disable Read More "
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Here you can configure about section"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Enable/Disable About Section"
+msgstr ""
+
+#: inc/customizer.php:196 template-home.php:119
+msgid "ABOUT SOFTWARE"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "About Title"
+msgstr ""
+
+#: inc/customizer.php:213 inc/customizer.php:309 template-home.php:120
+#: template-home.php:169
+msgid "this is what software3 is and why you should download it"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "About Sub Title"
+msgstr ""
+
+#: inc/customizer.php:233 inc/customizer.php:326 inc/customizer.php:387
+msgid "Choose  Page "
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "fa-area-chart"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Icon For Page "
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Feature Section"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Check out our work"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Enable/Disable Feature Section"
+msgstr ""
+
+#: inc/customizer.php:292 template-home.php:168
+msgid "Feature"
+msgstr ""
+
+#: inc/customizer.php:298 inc/customizer.php:315
+msgid "Feature Title"
+msgstr ""
+
+#: inc/customizer.php:342 inc/customizer.php:436
+msgid "Enable/Disable Readmore Button"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Front Page Section"
+msgstr ""
+
+#: inc/customizer.php:360
+msgid "This is front page"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Enable/Disable Frontpage  Section"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid " Download Text"
+msgstr ""
+
+#: inc/customizer.php:421
+msgid " Download Link"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Software Theme"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid " Testimonials Title For Widget"
+msgstr ""
+
+#: inc/customizer.php:479
+msgid " Footer Logo."
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Recommended size (200*55) pixels"
+msgstr ""
+
+#: inc/customizer.php:495
+msgid " Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:508
+msgid "Other Settings"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "More settings"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Enable/Disable Scroll Button  "
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Excerpt length. Default is 40 words"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: inc/customizer.php:556 index.php:32
+msgid "Welcome To Our Company"
+msgstr ""
+
+#: inc/customizer.php:562
+msgid " Welcome Text For Latest Post"
+msgstr ""
+
+#: inc/customizer.php:576
+msgid "Software Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:577
+msgid "Layout of sidebars"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Archive Sidebar"
+msgstr ""
+
+#: inc/customizer.php:586 inc/customizer.php:596 inc/customizer.php:614
+#: inc/customizer.php:624 inc/customizer.php:640 inc/customizer.php:650
+#: index.php:56
+msgid "right"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Archive Sidebar position"
+msgstr ""
+
+#: inc/customizer.php:594 inc/customizer.php:622 inc/customizer.php:648
+msgid "none"
+msgstr ""
+
+#: inc/customizer.php:595 inc/customizer.php:623 inc/customizer.php:649
+msgid "left"
+msgstr ""
+
+#: inc/customizer.php:609
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: inc/customizer.php:617
+msgid "Single Post Sidebar position"
+msgstr ""
+
+#: inc/customizer.php:635
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:643
+msgid "Single Page Sidebar position"
+msgstr ""
+
+#: inc/extras.php:72 inc/extras.php:106
+msgid "Select"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/widgets.php:8
+msgid "Software - Socialize"
+msgstr ""
+
+#: inc/widgets.php:10
+msgid "Displays socialize in sidebar."
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:41
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/widgets.php:50
+msgid "Facebook page url:"
+msgstr ""
+
+#: inc/widgets.php:61
+msgid "Pinterest Url:"
+msgstr ""
+
+#: inc/widgets.php:70
+msgid "Twitter Url:"
+msgstr ""
+
+#: inc/widgets.php:79
+msgid "Google+ Url:"
+msgstr ""
+
+#: inc/widgets.php:87
+msgid "Instagram Url:"
+msgstr ""
+
+#: inc/widgets.php:96
+msgid "Linked In Url:"
+msgstr ""
+
+#: inc/widgets.php:105
+msgid "Youtube Url:"
+msgstr ""
+
+#: inc/widgets.php:202
+msgid "Software - Testimonials"
+msgstr ""
+
+#: inc/widgets.php:204
+msgid "Displays Testimonials in sidebar."
+msgstr ""
+
+#: inc/widgets.php:221
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets.php:229
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets.php:237
+msgid "Content:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Type Something "
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: template-home.php:41 template-home.php:73
+msgid "active"
+msgstr ""
+
+#: template-home.php:91 template-home.php:185 template-home.php:237
+msgid "Read More"
+msgstr ""
+
+#: template-home.php:138
+msgid "Read More "
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "404 Error"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Oops, this page could not be found!"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-page.php:30
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:53
+msgid "Posts:"
+msgstr ""
+
+#: template-parts/content.php:26
+msgid "read more"
+msgstr ""

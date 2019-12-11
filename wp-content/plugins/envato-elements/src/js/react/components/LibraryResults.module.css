@@ -1,0 +1,9 @@
+.wrap {
+  width: 100%;
+  min-height: 60vh;
+
+  &.loading {
+    display: flex;
+    flex-direction: column;
+  }
+}

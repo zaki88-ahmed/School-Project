@@ -1,0 +1,33 @@
+/*
+Theme Name: engager
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+/*
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+*/
+ul,ol{margin:0 3em 1.5em 0;}
+li > ul,li > ol{margin-right:1.5em;}
+.main-navigation{float:right;}
+.main-navigation ul{padding-right:0;}
+.main-navigation li{float:right;}
+.main-navigation ul ul{float:right;right:-999em;}
+.main-navigation ul ul ul{right:-999em;}
+.main-navigation ul li:hover > ul,.main-navigation ul li.focus > ul{right:auto;}
+.main-navigation ul ul li:hover > ul,.main-navigation ul ul li.focus > ul{right:100%;}
+.comment-navigation .nav-previous,.posts-navigation .nav-previous,.post-navigation .nav-previous{float:right;}
+.comment-navigation .nav-next,.posts-navigation .nav-next,.post-navigation .nav-next{float:left;text-align:left;}
+.screen-reader-text:focus{right:5px;}
+.alignleft{float:right;margin-left:1.5em;}
+.alignright{float:left;margin-right:1.5em;}
+.aligncenter{margin-right:auto;margin-left:auto;}
+.wp-caption img[class*=\"wp-image-\"]{margin-right:auto;margin-left:auto;}

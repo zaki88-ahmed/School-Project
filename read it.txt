@@ -1,0 +1,3 @@
+open sql server, creat database and name it "project"
+open xampp and and start it
+copy that link to your browser and open project "http://localhost/project/"

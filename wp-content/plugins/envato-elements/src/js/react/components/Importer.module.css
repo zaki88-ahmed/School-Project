@@ -1,0 +1,61 @@
+.wrap {
+
+}
+
+.createButton {
+  width: auto;
+  display: inline-block;
+}
+
+.createPageSuccess {
+  font-size: 15px;
+  color: #767676;
+  background: #FFF;
+  padding: 10px 0 10px 16px;
+  margin: 0 0 15px;
+  border-left: 3px solid #2dbd2d;
+}
+
+.animatedButton{
+  position: relative;
+  span {
+    display: block;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font: 400 20px/1 dashicons;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: top;
+  }
+}
+
+.importing {
+  padding-right: 30px !important;
+
+  span {
+    animation: import-rotation 2s infinite linear;
+    width: 20px;
+    height: 20px;
+
+    &:before {
+      displaY: block;
+      position: absolute;
+      color: #ffffff;
+      content: "\f463";
+    }
+  }
+
+  &.animatedButtonSecondary{
+    span:before{
+      color: #f56e28;
+    }
+  }
+}
+
+
+@keyframes import-rotation {
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,30 @@
+@media (min-width:1200px) {
+    img.pull-left{margin-left:15px;}
+    img.pull-right{margin-right:15px;}
+    .scroll-top-wrapper{left:22px;border-bottom-left-radius:4px;border-bottom-right-radius:4px;}
+    .logo-menu.organictop{text-align:right;}
+    .rslides li{right:0;}
+    .rslides li:first-child{float:right;}
+    .rslides img{float:right;}
+    .rslides_nav.prev{right:0;}
+    .rslides_nav.next{left:0;}
+    .slider li .my-caption{right:5%;left:5%;}
+    footer .copyright .social-media{text-align:left;}
+    footer .copyright .social-media li a{margin-right:20px;}
+    .inner-page .blog-single .btn-blue{margin-right:15px;}
+    .inner-page .sidebar .side-category ul{text-align:right;}
+    .inner-page .sidebar .side-login .content{text-align:right;}
+    .comment-single .image{float:right;margin-left:15px;}
+    .tagcloud a{margin:0 0 9px 7px;}
+    .wpcf7-form-control-wrap input.wpcf7-file{right:0;}
+    [type=\"checkbox\"]:not(:checked),[type=\"checkbox\"]:checked{right:-9999px;}
+    [type=\"checkbox\"]:not(:checked) + span,[type=\"checkbox\"]:checked + span{padding-right:25px;}
+    [type=\"checkbox\"]:not(:checked) + span:before,[type=\"checkbox\"]:checked + span:before{right:0;}
+    [type=\"checkbox\"]:not(:checked) + span:after,[type=\"checkbox\"]:checked + span:after{right:3px;}
+    .wpcf7-checkbox, .wpcf7-radio{padding-right:0 !important;}
+    .wpcf7-checkbox span.wpcf7-list-item{margin-right:0;margin-left:10px;}
+    input[type=\"radio\"]{float:right !important;}
+    span.wpcf7-list-item{margin-right:0;margin-left:10px;}
+    ul.children{padding-right:0px;margin-right:0px;}
+    div#calendar_wrap{padding-right:10%;}
+}

@@ -1,0 +1,178 @@
+Changelog
+
+Tested up to: 5.0.1
+Version 2.1.6.1
+i)   	Update footer copyright
+Version 2.1.6
+i)   	Fixed avatar size
+ii)     Update to latest WordPress
+Version 2.1.5
+i)   	Intial version Release
+ii)		Fixed Error
+
+Version 2.1.4
+i)   	Intial version Release
+ii)		responsive image 
+iii)	logo Height and Width fixed
+
+Version 1.0.0
+i)   	Intial version Release
+
+Version 1.0.1
+i)   	Fixes to CSS
+ii)	 	Included RTL ready mode in customizer theme option
+iii)	Removed unnecessary files
+
+Version 1.0.2
+i) 		Removed Social Sharing function and integrate it with plugin repository.
+
+Version 1.0.3
+i)		Corrections as per WP Standard 
+ii) 	Replaced Minified CSS and JS with Unminified CSS and JS
+
+Version 1.0.4
+i)		Corrections as per WP Standard 
+ii) 	Removed jquery
+
+Version 1.0.5
+i)		Removed third party plugin requirements
+ii) 	Sanitization of missing output
+iii)   	Renamed template-home.php to front-page.php
+
+Version 1.0.6
+i)		Minor CSS Changes.
+
+
+Version 1.0.7
+i)		Remove string from theme language and made theme translation ready.
+ii) 	Sanitization of missing output
+iii)   	Enqueing Google fonts with proper method.
+
+Version 1.0.8
+i)		No of Post in Frontpage different section fixed to 4 from the 5
+ii) 	Inner pages header image is active only when selected , default image is removed 
+iii)   	front-page.php changed to template-home.php & default page to index.php
+iv)		unused layout folder is removed 
+v) 		WordPress rtl function is used and Removed from the custom rtl function from the customizer
+vi)     Default right sidebar in all except in page template
+vii)    Sections folder is removed and header.php and footer.php merged with header.php and footer.php of root theme folder
+viii) 	Plugin Activation code is removed 
+ix) 	Removed unneccessary commented code
+x) 		Background image support for the content area
+xi)     Added Number of Post Selection in Slider Section
+xii) 	Language file updated as per other files changes
+
+Version 1.0.9
+i)  	Image Licsense were added in readme.txt
+ii) 	Screenshot Change
+iii) 	Minor Correction were done
+
+Version 1.1.0
+i) 		No of slider is fixed in template-home.php
+ii)		Theme URI Fixed in style.css 
+iii)	Minor CSS change
+iv)		Title of Each Section is changebale
+v)		Enable/Disable of Each section of template-home.php
+vi)   js/flatter-customizer.js,css/flatter-customizer.css is added 
+
+Versioin 1.1.1
+
+i)  no of post in different section fixed to 4 from 3
+
+Version 1.1.2
+
+i) Missing JQuery Enque is fixed 
+
+Version 1.1.3
+
+i) 	Footer widget area % based on the number of Widget 
+ii) Thumbnail used is medium in blog and index page 
+iii) core logo support is added 
+iv) Screenshot Changed to FrontPage Template template-home.php
+
+Version 1.1.4
+i) Footer_block error is fixed in functions.php
+
+Version 1.1.5
+i) Footer_block error is fixed in Funcitons.php
+ii) 404 error for the Google Font is fixed 
+	
+Version 1.1.6
+i) 	Parent menu Working having child
+ii)	CSS on hover for the parent menu having child is fixed 
+
+Version 1.1.7
+
+i)	CSS fixed for bigger screen, reduced the padding of menu to fit more menu
+ii)	Woocommerce sidebar Fixed
+iii) Header Image Now Full Width for the bigger screen
+iv) Footer Widget Color Change to White
+v)	Social Icon at footer Issue is solved 
+vi) Removed Unused code from the customizer 
+
+Version 1.1.8
+
+i) 	Removed not working function from the customizer
+ii) Solved the footer social link issue
+iii) Slider autoplay is fixed 
+
+Version 1.1.9
+
+i) 	Added slider in index page.
+ii) Added button text option for slider.
+iii) Slider autoplay is fixed in testimonials section.
+iv) Fixed the design issuese.
+
+Version 2.0.0
+i)  Added Selection of Number of Post  in each section of home page.
+ii) social icon issuese is fixed in footer section.
+
+Version 2.0.1
+i)  	Added enable adnd disable for  Slider Section in Home Page.
+ii)	 	Added enable adnd disable for Slider Section in Index Page.
+iii)	Added option for Welcome section title and text.
+iv)     Added option for enable and disable for welcome text and title.
+
+Version 2.0.2
+i)  	Added enable adnd disable for  CTA Section in Home Page.
+ii)	 	Added CTA section in home page.
+
+Version 2.0.3
+i)  	Added enable adnd disable for  Powered By Section.
+ii)	 	Fix the issuese of escaping.
+
+Version 2.0.4
+i)  	Added enable adnd disable for Title of slider.  
+ii)	 	Added enable adnd disable for Content of slider.  
+ii)	 	Added enable adnd disable for Read More Button of slider.  
+
+Version 2.0.5
+i)  	Added enable and disable for Scroll To Top Button.  
+ii)	 	Added enable and disable for Bread Crumb.  
+ii)	 	Fix responsive issues. 
+
+Version 2.0.6
+i) 		Added scroll to bottom option.
+ii)		Added enable/disable option for scroll to bottom.
+iii)	Added option for feature title.
+
+Version 2.0.7
+i) 		Added option for custom css.
+
+Version 2.0.8
+i) 		Removed Option for Custom CSS
+
+Version 2.0.9
+i) 		Demo URL changed
+
+Version 2.1.0
+i)  	Scroll To Top Button Event Fixed.
+
+Version 2.1.1
+i)      Fixed demo URL in readme file
+
+Version 2.1.2
+i)      Tested with latest RC
+
+Version 2.1.3
+i)      Tested with latest updates

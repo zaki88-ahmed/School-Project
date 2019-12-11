@@ -1,0 +1,1086 @@
+# Copyright (C) 2016 oceanwebthemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: metlux 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/metlux\n"
+"POT-Creation-Date: 2016-10-06 21:51:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: oceanwebthemes <info@oceanwebthemes.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+
+#: 404.php:16
+#@ metlux
+msgid "404 NOT FOUND"
+msgstr ""
+
+#: 404.php:21
+#: index.php:17
+#: archive.php:28
+#: page.php:31
+#: search.php:26
+#: single.php:26
+#: template-team.php:26
+#@ metlux
+msgid "Back to home"
+msgstr ""
+
+#: 404.php:68
+#@ metlux
+msgid "Oops!"
+msgstr ""
+
+
+#: 404.php:69
+#, php-format
+#@ metlux
+msgid "We can not seem to find the page you are looking for."
+msgstr ""
+
+#: 404.php:70
+#, php-format
+#@ metlux
+msgid "Error code: 404."
+msgstr ""
+
+#: 404.php:73
+#, php-format
+#@ metlux
+msgid "Home"
+msgstr ""
+
+#: 404.php:76
+#, php-format
+#@ metlux
+msgid "404"
+msgstr ""
+
+#: archive.php:105
+#: template-parts/content-search.php:29
+#: template-parts/content-single.php:34
+#: template-parts/content-single.php:129
+#: template-parts/content.php:25
+#@ metlux
+msgid "0 comment"
+msgstr ""
+
+#: archive.php:105
+#: template-parts/content-search.php:29
+#: template-parts/content-single.php:34
+#: template-parts/content-single.php:129
+#: template-parts/content.php:25
+#@ metlux
+msgid "one comment"
+msgstr ""
+
+#: archive.php:105
+#: template-parts/content-search.php:29
+#: template-parts/content-single.php:34
+#: template-parts/content-single.php:129
+#: template-parts/content.php:25
+#@ metlux
+msgid "% comment"
+msgstr ""
+
+#: archive.php:105
+#: template-parts/content-search.php:29
+#: template-parts/content-single.php:34
+#: template-parts/content-single.php:129
+#@ metlux
+msgid "comments-link"
+msgstr ""
+
+#: archive.php:105
+#: template-parts/content-search.php:29
+#: template-parts/content-single.php:34
+#: template-parts/content-single.php:129
+#@ metlux
+msgid "Comments are off for this post"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+#@ metlux
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+#@ metlux
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56
+#@ metlux
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57
+#@ metlux
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+#@ metlux
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:87
+#@ metlux
+msgid "Leave your message"
+msgstr ""
+
+#: comments.php:92
+#@ metlux
+msgid "Name"
+msgstr ""
+
+#: comments.php:97
+#@ metlux
+msgid "Email"
+msgstr ""
+
+#: comments.php:102
+#@ metlux
+msgid "Url"
+msgstr ""
+
+#: footer.php:26
+#@ metlux
+msgid "Copyright &copy; 2016. Your Theme. All Rights Reserved."
+msgstr ""
+
+#: footer.php:27
+#, php-format
+#@ metlux
+msgid "Developed By:"
+msgstr ""
+
+#: footer.php:20
+#: footer.php:42
+#@ metlux
+msgid "Your Company"
+msgstr ""
+
+#: footer.php:41
+#@ metlux
+msgid "Copyright &copy; 2016. Your Theme. All Rights Reserved."
+msgstr ""
+
+#: front-page.php:43
+#: index.php:12
+#@ metlux
+msgid "Welcome to"
+msgstr ""
+
+#: front-page.php:63
+#@ metlux
+msgid "inner page"
+msgstr ""
+
+#: functions.php:50
+#@ metlux
+msgid "Primary"
+msgstr ""
+
+
+#: functions.php:130
+#@ metlux
+msgid " Footer left Sidebar"
+msgstr ""
+
+#: functions.php:132
+#@ metlux
+msgid "Drag your widgets for Footer left  here(One Text widget is recommended for this sidebar)"
+msgstr ""
+
+#: functions.php:140
+#@ metlux
+msgid " Footer Right Sidebar"
+msgstr ""
+
+#: functions.php:142
+#@ metlux
+msgid "Drag your widgets for Footer Right  here(One Text widget is recommended for this sidebar)"
+msgstr ""
+
+#: functions.php:150
+#@ metlux
+msgid "Home Page Widget Area"
+msgstr ""
+
+#: functions.php:152
+#@ metlux
+msgid "Drag your widgets for home page here(Newsletter widget recommended for this sidebar )"
+msgstr ""
+
+#: functions.php:159
+#@ metlux
+msgid "Video Section"
+msgstr ""
+
+#: functions.php:161
+#@ metlux
+msgid "Drag your widgets for Video Section"
+msgstr ""
+
+#: header.php:25
+#@ metlux
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:72
+#@ metlux
+msgid "Toggle navigation"
+msgstr ""
+
+#: searchform.php:5
+#@ metlux
+msgid "Search for..."
+msgstr ""
+
+#: searchform.php:5
+#@ metlux
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+#@ metlux
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#@ metlux
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-search.php:35
+#: sections/slider.php:171
+#: sections/slider.php:82
+#: template-parts/content.php:31
+#@ metlux
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-single.php:42
+#@ metlux
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:50
+#@ metlux
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-single.php:134
+#@ metlux
+msgid "keep reading"
+msgstr ""
+
+#: inc/widgets/widgets.php:8
+#@ metlux
+msgid "metlux Contact Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:35
+#@ metlux
+msgid "Title:"
+msgstr ""
+
+
+#: inc/widgets/widgets.php:44
+#@ metlux
+msgid "Address:"
+msgstr ""
+
+
+#: inc/widgets/widgets.php:53
+#@ metlux
+msgid "Phone:"
+msgstr ""
+
+#: inc/widgets/widgets.php:62
+#@ metlux
+msgid "E-mail:"
+msgstr ""
+
+#: inc/widgets/widgets.php:71
+#@ metlux
+msgid "Facebook Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:80
+#@ metlux
+msgid "Twitter Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:89
+#@ metlux
+msgid "Google Plus Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:98
+#@ metlux
+msgid "Instagram Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+#@ metlux
+msgid "Linkedin Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:116
+#@ metlux
+msgid "Youtube Link:"
+msgstr ""
+
+
+#: inc/widgets/widgets.php:125
+#@ metlux
+msgid "Skype Link:"
+msgstr ""
+
+#: inc/widgets/widgets.php:125
+#@ metlux
+msgid "Skype Link:"
+msgstr ""
+
+#: inc/class.php:43
+#@ metlux
+msgid "Select"
+msgstr ""
+
+#: inc/customizer.php:17
+#@ metlux
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:18
+#@ metlux
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/wp_bootstrap_navwalker.php:169
+#@ metlux
+msgid "Add a menu."
+msgstr ""
+
+#: section/blog.php:7
+#@ metlux
+msgid "Welcome to metlux Plus Blog , Simple yet complete theme for business"
+msgstr ""
+
+#: section/blog.php:8
+#@ metlux
+msgid "Welcome to metlux Plus Blog , Simple yet complete theme for business"
+msgstr ""
+
+#: section/blog.php:78
+#@ metlux
+msgid "View All"
+msgstr ""
+
+#: section/client.php:16
+#@ metlux
+msgid "Brand Carousel"
+msgstr ""
+
+#: section/product.php:8
+#@ metlux
+msgid "Our Product"
+msgstr ""
+
+
+#: section/product.php:9
+#@ metlux
+msgid "Product to metlux Plus , Simple yet complete theme for business"
+msgstr ""
+
+
+#: section/product.php:32
+#@ metlux
+msgid "All"
+msgstr ""
+
+#: section/service.php:7
+#@ metlux
+msgid "Our Service"
+msgstr ""
+
+#: section/service.php:8
+#@ metlux
+msgid "Service to metlux Plus , Simple yet complete theme for business"
+msgstr ""
+
+#: section/team.php:7
+#@ metlux
+msgid "Our Team"
+msgstr ""
+
+#: section/team.php:8
+#@ metlux
+msgid "Welcome to metlux Team , Simple yet complete theme for business"
+msgstr ""
+
+#: section/testimonial.php:7
+#@ metlux
+msgid "Testimonial"
+msgstr ""
+
+#: section/testimonial.php:8
+#@ metlux
+msgid "Welcome to metlux Testimonial , Simple yet complete theme for business"
+msgstr ""
+
+#: section/video.php:7
+#@ metlux
+msgid "Our video"
+msgstr ""
+
+#: section/video.php:8
+#@ metlux
+msgid "video to metlux Plus , Simple yet complete theme for business"
+msgstr ""
+
+#: section/welcome.php:7
+#@ metlux
+msgid "Welcome To metlux"
+msgstr ""
+
+#: section/welcome.php:8
+#@ metlux
+msgid "Welcome to metlux  , Simple yet complete theme for business"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:31
+#@ metlux
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:22
+#: inc/customizer-blog.php:111
+#@ metlux
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:23
+#: inc/customizer-blog.php:12
+#@ metlux
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:32
+#@ metlux
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:48
+#@ metlux
+msgid "Welcome to metlux Plus Blog , Simple yet complete theme for business"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:52
+#@ metlux
+msgid "Blog Description"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:70
+#@ metlux
+msgid "No Of Posts To Show On Blog Section"
+msgstr ""
+
+#: inc/customizer/customizer-blog.php:90
+#@ metlux
+msgid "Choose blog category"
+msgstr "
+
+#: inc/customizer/customizer-blog.php:107
+#@ metlux
+msgid "Enable/Disable View All Text"
+msgstr "
+
+#: inc/customizer/customizer-blog.php:120
+#@ metlux
+msgid "View All"
+msgstr "
+
+#: inc/customizer/customizer-blog.php:126
+#@ metlux
+msgid "View All Text"
+msgstr "
+
+#: inc/customizer/customizer-client.php:7
+#@ metlux
+msgid "Client Section"
+msgstr "
+
+#: inc/customizer/customizer-client.php:19
+#@ metlux
+msgid "Enable/Disable Client Section"
+msgstr "
+
+#: inc/customizer/customizer-client.php:23
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-client.php:24
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-client.php:39
+#@ metlux
+msgid "No Of Posts To Show On Client Section"
+msgstr "
+
+#: inc/customizer/customizer-client.php:62
+#@ metlux
+msgid "Choose client category"
+msgstr "
+
+#: inc/customizer/customizer-newsletter.php:8
+#@ metlux
+msgid "Newsletter Section"
+msgstr "
+
+#: inc/customizer/customizer-newsletter.php:18
+#@ metlux
+msgid "Upload Background Image For Newsletter Section"
+msgstr "
+
+#: inc/customizer/customizer-other.php:7
+#@ metlux
+msgid "metlux Options"
+msgstr "
+
+#: inc/customizer/customizer-other.php:14
+#@ metlux
+msgid "Options"
+msgstr "
+
+#: inc/customizer/customizer-other.php:26
+#@ metlux
+msgid "Layout Style"
+msgstr "
+
+#: inc/customizer/customizer-other.php:30
+#@ metlux
+msgid "Right Sidebar"
+msgstr "
+
+#: inc/customizer/customizer-other.php:31
+#@ metlux
+msgid "Left Sidebar"
+msgstr "
+
+#: inc/customizer/customizer-other.php:32
+#@ metlux
+msgid "Both Sidebar"
+msgstr "
+
+#: inc/customizer/customizer-other.php:33
+#@ metlux
+msgid "No Siderbar"
+msgstr "
+
+#: inc/customizer/customizer-other.php:49
+#@ metlux
+msgid "Excerpt length. Default is 40 words"
+msgstr "
+
+#: inc/customizer/customizer-other.php:57
+#@ metlux
+msgid "Excerpt length(word)"
+msgstr "
+
+#: inc/customizer/customizer-other.php:76
+#@ metlux
+msgid "Check to Disable Scroll Up"
+msgstr "
+
+#: inc/customizer/customizer-other.php:90
+#@ metlux
+msgid "Copyright &copy; 2016. Your Theme. All Rights Reserved."
+msgstr "
+
+#: inc/customizer/customizer-other.php:96
+#@ metlux
+msgid "Write Copyright Text"
+msgstr "
+
+#: inc/customizer/customizer-other.php:106
+#@ metlux
+msgid "Developed By:"
+msgstr "
+
+#: inc/customizer/customizer-other.php:112
+#@ metlux
+msgid "Develoed By Text"
+msgstr "
+
+#: inc/customizer/customizer-other.php:122
+#@ metlux
+msgid "Your Company"
+msgstr "
+
+#: inc/customizer/customizer-other.php:128
+#@ metlux
+msgid "Company Name"
+msgstr "
+
+#: inc/customizer/customizer-other.php:143
+#@ metlux
+msgid "Company Link"
+msgstr "
+
+#: inc/customizer/customizer-product.php:6
+#@ metlux
+msgid "Product Section"
+msgstr "
+
+#: inc/customizer/customizer-product.php:18
+#@ metlux
+msgid "Enable/Disable Product Section"
+msgstr "
+
+#: inc/customizer/customizer-product.php:22
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-product.php:23
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-product.php:32
+#@ metlux
+msgid "Our Product"
+msgstr "
+
+#: inc/customizer/customizer-product.php:37
+#@ metlux
+msgid "Product Title"
+msgstr "
+
+#: inc/customizer/customizer-product.php:48
+#@ metlux
+msgid "Product to metlux Plus , Simple yet complete theme for business"
+msgstr "
+
+#: inc/customizer/customizer-product.php:52
+#@ metlux
+msgid "Product Description"
+msgstr "
+
+#: inc/customizer/customizer-product.php:69
+#@ metlux
+msgid "Choose Product Category"
+msgstr "
+
+#: inc/customizer/customizer-service.php:7
+#@ metlux
+msgid "Service Section"
+msgstr "
+
+#: inc/customizer/customizer-service.php:19
+#@ metlux
+msgid "Enable/Disable Service Section"
+msgstr "
+
+#: inc/customizer/customizer-service.php:23
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-service.php:24
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-service.php:33
+#@ metlux
+msgid "Our Service"
+msgstr "
+
+#: inc/customizer/customizer-service.php:38
+#@ metlux
+msgid "Service Title"
+msgstr "
+
+#: inc/customizer/customizer-service.php:49
+#@ metlux
+msgid "Service to metlux Plus , Simple yet complete theme for business"
+msgstr "
+
+#: inc/customizer/customizer-service.php:53
+#@ metlux
+msgid "Service Description"
+msgstr "
+
+#: inc/customizer/customizer-service.php:49
+#@ metlux
+msgid "Service to metlux Plus , Simple yet complete theme for business"
+msgstr "
+
+#: inc/customizer/customizer-service.php:67
+#@ metlux
+msgid "Icon for Service  1"
+msgstr "
+
+#: inc/customizer/customizer-service.php:82
+#@ metlux
+msgid "Icon for Service  1"
+msgstr "
+
+#: inc/customizer/customizer-service.php:95
+#@ metlux
+msgid "Icon for Service  1"
+msgstr "
+
+#: inc/customizer/customizer-service.php:109
+#@ metlux
+msgid "Select Page for Service  1"
+msgstr "
+
+#: inc/customizer/customizer-service.php:124
+#@ metlux
+msgid "Select Page for Service  2"
+msgstr "
+
+#: inc/customizer/customizer-service.php:139
+#@ metlux
+msgid "Select Page for Service  3"
+msgstr "
+
+#: inc/customizer/customizer-service.php:154
+#@ metlux
+msgid "Upload Background Image For Service Section"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:6
+#@ metlux
+msgid "metlux Home Options"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:14
+#@ metlux
+msgid "Slider Section"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:26
+#@ metlux
+msgid "Enable/DisableSlider Section"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:30
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:31
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:45
+#@ metlux
+msgid "Select Slider Text Postion"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:51
+#@ metlux
+msgid "left"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:52
+#@ metlux
+msgid "right"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:53
+#@ metlux
+msgid "center"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:64
+#@ metlux
+msgid "Select Page for SLider 1"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:79
+#@ metlux
+msgid "Select Page for SLider 2"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:94
+#@ metlux
+msgid "Select Page for SLider 3"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:110
+#@ metlux
+msgid "Category if no page is selected"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:127
+#@ metlux
+msgid "No of Post to Show On Home Slider"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:149
+#@ metlux
+msgid "Read More"
+msgstr "
+
+#: inc/customizer/customizer-slider.php:153
+#@ metlux
+msgid "Read More Text"
+msgstr "
+
+#: inc/customizer/customizer-team.php:7
+#@ metlux
+msgid "Team Section"
+msgstr "
+
+#: inc/customizer/customizer-team.php:19
+#@ metlux
+msgid "Enable/DisableTeam Section"
+msgstr "
+
+#: inc/customizer/customizer-team.php:23
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-team.php:24
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-team.php:33
+#@ metlux
+msgid "Team"
+msgstr "
+
+#: inc/customizer/customizer-team.php:38
+#@ metlux
+msgid "Team Title"
+msgstr "
+
+#: inc/customizer/customizer-team.php:49
+#@ metlux
+msgid "Welcome to metlux Plus Team , Simple yet complete theme for business"
+msgstr "
+
+#: inc/customizer/customizer-team.php:53
+#@ metlux
+msgid "Team Description"
+msgstr "
+
+#: inc/customizer/customizer-team.php:71
+#@ metlux
+msgid "No of Post to Show On Team Section"
+msgstr "
+
+#: inc/customizer/customizer-team.php:91
+#@ metlux
+msgid "Choose Team Category"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:8
+#@ metlux
+msgid "Testimonial Section"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:20
+#@ metlux
+msgid "Enable/DisableTestimonial Section"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:24
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:25
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:34
+#@ metlux
+msgid "Testimonial"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:39
+#@ metlux
+msgid "Testimonial Title"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:50
+#@ metlux
+msgid "Welcome to metlux Plus Testimonial , Simple yet complete theme for business"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:54
+#@ metlux
+msgid "Testimonial Description"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:72
+#@ metlux
+msgid "No of Post to Show On Testimonial Section"
+msgstr "
+
+#: inc/customizer/customizer-testimonial.php:92
+#@ metlux
+msgid "Choose Testimonial Category"
+msgstr "
+
+#: inc/customizer/customizer-video.php:6
+#@ metlux
+msgid "video Section"
+msgstr "
+
+#: inc/customizer/customizer-video.php:18
+#@ metlux
+msgid "Enable/Disable video Section"
+msgstr "
+
+#: inc/customizer/customizer-video.php:22
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-video.php:23
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-video.php:32
+#@ metlux
+msgid "Our video"
+msgstr "
+
+#: inc/customizer/customizer-video.php:36
+#@ metlux
+msgid "video Title"
+msgstr "
+
+#: inc/customizer/customizer-video.php:46
+#@ metlux
+msgid "video to metlux Plus , Simple yet complete theme for business"
+msgstr "
+
+#: inc/customizer/customizer-video.php:50
+#@ metlux
+msgid "video Description"
+msgstr "
+
+#: inc/customizer/customizer-video.php:64
+#@ metlux
+msgid "Upload Background For Video Section"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:6
+#@ metlux
+msgid "Welcome Section"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:18
+#@ metlux
+msgid "Enable/Disable Welcome Section"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:22
+#@ metlux
+msgid "Enable"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:23
+#@ metlux
+msgid "Disable"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:6
+#@ metlux
+msgid "Welcome Section"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:32
+#@ metlux
+msgid "Welcome To metlux"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:37
+#@ metlux
+msgid "Welcome Title"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:52
+#@ metlux
+msgid "Welcome Desription"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:66
+#@ metlux
+msgid "Icon for Welcome Section1"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:66
+#@ metlux
+msgid "Icon for Welcome 1"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:67
+#@ metlux
+msgid "Use font awesome icon: Eg: %s. %sSee more here%s"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:81
+#@ metlux
+msgid "Icon for Welcome 2"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:94
+#@ metlux
+msgid "Icon for Welcome 3"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:108
+#@ metlux
+msgid "Icon for Welcome 4"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:120
+#@ metlux
+msgid "Select Page for Welcome 1"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:135
+#@ metlux
+msgid "Select Page for Welcome 2"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:150
+#@ metlux
+msgid "Select Page for Welcome 3"
+msgstr "
+
+#: inc/customizer/customizer-welcome.php:164
+#@ metlux
+msgid "Select Page for Welcome 4"
+msgstr "
+
+
+
+
+

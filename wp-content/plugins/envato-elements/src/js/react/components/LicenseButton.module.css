@@ -1,0 +1,56 @@
+.modalContent {
+}
+
+.modalContentInject {
+  display: none;
+  color: #444444;
+  a{
+    color: #444444;
+  }
+}
+
+.tokenWrap {
+  display: flex;
+  width: 100%;
+}
+.tokenInput {
+  flex: 1;
+  margin-right: 10px;
+  padding: 6px 9px;
+  line-height: 21px;
+}
+.title{
+  margin: 0 0 21px;
+  font-size: 25px;
+  font-weight: normal;
+}
+.tokenError{
+  color: #FF0000;
+  font-weight: bold;
+  padding: 0 0 10px;
+}
+.tokenLoading{
+  padding: 60px 0 40px;
+}
+.tokenSuccess{
+  text-align: center;
+  p{
+    font-size: 16px;
+  }
+}
+.tokenSuccessTitle{
+  font-size: 27px;
+  font-weight: normal;
+  background-image: url("../../../images/icon-green-check.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 60px;
+  height: 50px;
+  display: inline-block;
+  margin: 0 auto;
+  line-height: 50px;
+}
+.generateTokenLink{
+  margin: 6px 0 0;
+  font-size: 12px;
+}
